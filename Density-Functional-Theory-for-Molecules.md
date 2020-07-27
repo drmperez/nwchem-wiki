@@ -1225,6 +1225,7 @@ composition.
 | fine    |   1&sdot;10<sup>-7</sup>          |
 | xfine   |   1&sdot;10<sup>-8</sup>          |
 | huge    |   1&sdot;10<sup>-10</sup>          |
+
 </center>
 
 In order to determine the level of radial and angular quadrature needed
